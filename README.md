@@ -3,4 +3,4 @@ A movies data-base where users can view and search for details about movies. All
 
 The project is written in vanilla JS, HTML, and CSS.
 
-For demo: [moviesdb-rona.netlify.app](moviesdb-rona.netlify.app)
+For demo: [moviesdb-rona.netlify.app](https://moviesdb-rona.netlify.app/)
