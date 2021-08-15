@@ -1,6 +1,7 @@
 import movieDetails from './components/MovieDetails.js';
-
-const API_KEY = config.API_KEY;
+import { API_KEY } from './config.js';
+console.log(API_KEY);
+// const API_KEY = config.API_KEY;
 
 const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key='+ API_KEY + '&page=';
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
